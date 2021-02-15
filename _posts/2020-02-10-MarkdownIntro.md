@@ -3,7 +3,7 @@ type: post
 author: Levi Blinder
 title: Markdown Intro
 ---
-![title](https://images.app.goo.gl/grd5gdoGpZKVSff16)
+![title](https://www.pexels.com/photo/mountain-under-cloudy-sky-1666012/)
 ## About Me:
 
 #### Fun facts
